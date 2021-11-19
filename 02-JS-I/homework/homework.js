@@ -53,7 +53,7 @@ function multiplica(x, y) {
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-  resturn x/y;
+  return x/y;
 }
 
 function sonIguales(x, y) {
@@ -61,10 +61,10 @@ function sonIguales(x, y) {
   // De lo contrario, devuelve "false"
   // Tu código:
   if (x===y){
-  return true;
+    return true;
   }
   else{
-  return false;
+    return false;
   }
 }
 
@@ -84,9 +84,9 @@ function menosQueNoventa(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   if(num<90){
-  return true;
+    return true;
   }else{
-  return false;
+    return false;
   }
 
 }
@@ -96,9 +96,9 @@ function mayorQueCincuenta(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   if(num>50){
-  return true;
+    return true;
   }else{ 
-  return false;
+    return false;
   }
 }
 
@@ -113,7 +113,7 @@ function esPar(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   if(num%2 === 0){
-  return true;
+    return true;
   }else{
     return false;
   }
@@ -124,8 +124,8 @@ function esImpar(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   if(num%2 === 1){
-    return true;
-    }else{
+      return true;
+  }else{
       return false;
     }
 }
@@ -173,10 +173,10 @@ function esPositivo(numero) {
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
   if(numero > 0){
-  return "Es positivo";
+    return "Es positivo";
   }else{
     if(numero < 0){
-    return "Es negativo"
+      return "Es negativo"
     }else{
       return false;
     }
@@ -221,7 +221,7 @@ function retornarPerimetro(lado){
 function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
   //Escribe tu código aquí
-return base*altura/2;
+  return base*altura/2;
 }
 
 
@@ -241,8 +241,7 @@ function esVocal(letra){
   //Escribe tu código aquí
   if(letra.length === 1){
     if(letra === "a" || letra === "e"  || letra === "i" ||letra === "o" || letra === "u"){ 
-    return "Es vocal"
-
+      return "Es vocal"
     }
   }
   return "Dato incorrecto"
