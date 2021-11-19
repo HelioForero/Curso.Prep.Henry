@@ -1,0 +1,6 @@
+
+Variables: Las variables son formas de almacenar datos. Estos datos pueden cambiar durante el proceso del programa y por eso el nombre. los datos pueden ser de diferentes tipos como letras, palabras, numeros, booleanos. 
+Strigs: son un t8ipo de variable que contiene letras y/o palabras
+Funciones: Las funciones son instructiones predeterminadas para hacer cambios en variables o obtener informacion de variables. 
+Declaraciones: Las declaraciones son preguntas que se le pide evaluar al computador para tomar decisiones para alterar variables o procesar informacion de las mismas dentro de funciones. 
+Valores Booleanos: Los valores booleanos son aquellos que solo tienen dos opciones, como 0 o 1, verdadero o falso. Estos son llamados booleanos por la logica de bool en la que se usan. 
