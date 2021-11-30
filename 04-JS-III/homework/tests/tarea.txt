@@ -1,0 +1,1 @@
+Arrays: Los Arrays son conjuntos de variables associados para ser usados bajo un mismo nombre, con diferente indice, pueden ser vistos como una lista de variables. estos pueden contener diferentes tirpos de variables y purden ser accessados de forma independiente. 

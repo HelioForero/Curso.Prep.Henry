@@ -1,0 +1,3 @@
+
+* `prototype`: es una palabra reservada utilizada para crear un metodo de una clase, despues de que la clase ya fue creada. la forma de usarla es {'nombre clase'}.prototype.{'nombre funcion'} = function(){} 
+* _Constructors_ (de Clases): Los contructores son metodos propios de las clases para asginarle valores a sus propiedades. 
