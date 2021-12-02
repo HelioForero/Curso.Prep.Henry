@@ -1,0 +1,1 @@
+Callback: Un callback es realizar el llamado una funcion dentro de otra. La funcion a ejecutar llega como parametro en la funcion que estamos ejecutando. En otras palabras, una funcion llega como parametro y es usada dentro de la logica requerida en nuestra funcion. 
